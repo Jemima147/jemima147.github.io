@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The changing concepts of marketing"
-date:   2021-07-08 21:24:18 +0700
+date:   2021-07-16 21:24:18 +0700
 categories: english-vietnamese
 ---
 
